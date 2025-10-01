@@ -17,12 +17,6 @@ Here are some of my recent articles:
 3. [Automating Jira Ticket Validation with n8n and Google Cloud](https://medium.com/@yeskaydeecodes9/automating-jira-ticket-validation-with-n8n-and-google-cloud-b2ca53ea82ad)  
    How I used n8n workflows with GCP IAM to streamline Jira ticket approvals.
 
-4. [Article 4 Title](#)  
-   Short description about this article.
-
-5. [Article 5 Title](#)  
-   Short description about this article.
-
 ---
 
 ✨ Feel free to check them out and let me know your thoughts! Your feedback means a lot.  
